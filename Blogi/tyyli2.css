@@ -26,7 +26,7 @@ margin: 50px;
 }
 
 .header {
-    background-image: url (/Blogi/car.jpg);
+    background-image: url(Blogi/car.jpg);
     background-position:center;
     background-size: cover;
     margin: 0px;
